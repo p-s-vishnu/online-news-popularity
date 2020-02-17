@@ -22,7 +22,7 @@
 
 ## Sample Test values
 
-![Screenshot](./resources/Iteration 3.png)
+![Screenshot](./resources/Iteration%203.png)
 
 **Class: Not so Popular**
 
