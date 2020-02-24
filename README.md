@@ -1,10 +1,14 @@
-# Online news popularity
+# Online news popularity tool: Popularly 
 
 ![Demo gif](./resources/demo.gif)
 
 
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
+
+
+
+### [Try it out yourself](https://popularly.herokuapp.com/)
 
 
 
@@ -17,6 +21,20 @@
 ![Feature description](./resources/features.png)
 
 
+
+
+
+## Run locally
+
+```bash
+# install the prerequisites
+pip install -r requirements.txt
+
+# run app.py
+python app.py
+
+# Fetch the ip address from the terminal and Go to the link
+```
 
 
 
